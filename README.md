@@ -32,7 +32,7 @@ The main reason for the production is that although Google’s third-party login
 
 製作的原因，主要是雖然[Google的第三方登入](https://medium.com/彼得潘的-swift-ios-app-開發問題解答集/利用-firebase-實現-ios-app-的登入功能-cf1795ccec00)整合的很完整，但是最主要是的取得它的ID，而其它的功能就沒什麼必要了，也順道學學基本的[OAuth 2.0](https://medium.com/麥克的半路出家筆記/筆記-認識-oauth-2-0-一次了解各角色-各類型流程的差異-c42da83a6015)的認證實作…
 
-![](https://raw.githubusercontent.com/William-Weng/WWLog/main/Example.gif)
+![](https://raw.githubusercontent.com/William-Weng/WWSignInWith3rd/main/Example.gif)
 
 ## [WWNetworking](https://github.com/William-Weng/WWNetworking)
 
