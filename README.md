@@ -146,3 +146,13 @@ Enhanced version of UISegmentControl.
 UISegmentControl的加強版.
 
 ![](https://raw.githubusercontent.com/William-Weng/WWSegmentControlView/main/Example.gif)
+
+# [WWSQLite3Manager](https://github.com/William-Weng/WWSQLite3Manager)
+
+[![Swift-5.5](https://img.shields.io/badge/Swift-5.5-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-13.0](https://img.shields.io/badge/iOS-13.0-pink.svg?style=flat)](https://developer.apple.com/swift/) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
+
+A small tool for SQLite3 that makes basic CRUD easier to use.
+一個SQLite3的小工具，讓基本的CRUD能更方便的使用.
+
+![](https://raw.githubusercontent.com/William-Weng/WWSQLite3Manager/main/Example.gif)
+
