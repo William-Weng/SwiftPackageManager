@@ -156,3 +156,12 @@ A small tool for SQLite3 that makes basic CRUD easier to use.
 
 ![](https://raw.githubusercontent.com/William-Weng/WWSQLite3Manager/main/Example.gif)
 
+# [WWHUD](https://github.com/William-Weng/WWHUD)
+
+[![Swift-5.5](https://img.shields.io/badge/Swift-5.5-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-13.0](https://img.shields.io/badge/iOS-13.0-pink.svg?style=flat)](https://developer.apple.com/swift/) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
+
+Custom read animation, support custom pictures, GIF animation. => [HUD - Head Up Display](https://youtu.be/6XVxvRKoAHM)
+自定義讀取動畫，支援自定義圖片、GIF動畫 => [HUD - Head Up Display](https://youtu.be/6XVxvRKoAHM)
+
+![](https://raw.githubusercontent.com/William-Weng/WWHUD/main/Example.gif)
+
