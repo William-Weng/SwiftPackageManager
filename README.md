@@ -1,6 +1,6 @@
 # Swift Package Manager 記錄
 
-## [WWPrint](https://github.com/William-Weng/WWPrint)
+## [01 - WWPrint](https://github.com/William-Weng/WWPrint)
 [![Swift-5.3](https://img.shields.io/badge/Swift-5.3-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-12.0](https://img.shields.io/badge/iOS-12.0-pink.svg?style=flat)](https://developer.apple.com/swift/) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
 
 The number of lines that can be printed + the printing method of the method name => convenient for debugging
@@ -9,7 +9,7 @@ The number of lines that can be printed + the printing method of the method name
 
 ![](https://raw.githubusercontent.com/William-Weng/WWPrint/main/Example.png)
 
-## [WWLog](https://github.com/William-Weng/WWLog)
+## [02 - WWLog](https://github.com/William-Weng/WWLog)
 [![Swift-5.3](https://img.shields.io/badge/Swift-5.3-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-12.0](https://img.shields.io/badge/iOS-12.0-pink.svg?style=flat)](https://developer.apple.com/swift/) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
 
 This is a good helper for iOS engineer Debug.
@@ -17,7 +17,7 @@ This is a good helper for iOS engineer Debug.
 
 ![](https://raw.githubusercontent.com/William-Weng/WWLog/main/Example.gif)
 
-## [WWSignInWith3rd](https://github.com/William-Weng/WWSignInWith3rd)
+## [03 - WWSignInWith3rd](https://github.com/William-Weng/WWSignInWith3rd)
 [![Swift-5.3](https://img.shields.io/badge/Swift-5.3-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-12.0](https://img.shields.io/badge/iOS-12.0-pink.svg?style=flat)](https://developer.apple.com/swift/) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
 
 Third-party login integration, as for the parameter values in the program, and the related setting values of info.plist, please refer to each developer platform.
@@ -34,7 +34,7 @@ The main reason for the production is that although Google’s third-party login
 
 ![](https://raw.githubusercontent.com/William-Weng/WWSignInWith3rd/main/Example.gif)
 
-## [WWNetworking](https://github.com/William-Weng/WWNetworking)
+## [04 - WWNetworking](https://github.com/William-Weng/WWNetworking)
 
 [![Swift-5.3](https://img.shields.io/badge/Swift-5.3-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-12.0](https://img.shields.io/badge/iOS-12.0-pink.svg?style=flat)](https://developer.apple.com/swift/) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
 
@@ -44,7 +44,7 @@ This is a simple integration of HTTP transmission, upload and download functions
 
 ![](https://raw.githubusercontent.com/William-Weng/WWNetworking/main/Example.gif)
 
-## [WWWebImage](https://github.com/William-Weng/WWWebImage)
+## [05 - WWWebImage](https://github.com/William-Weng/WWWebImage)
 
 [![Swift-5.5](https://img.shields.io/badge/Swift-5.5-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-12.0](https://img.shields.io/badge/iOS-12.0-pink.svg?style=flat)](https://developer.apple.com/swift/) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
 
@@ -54,7 +54,7 @@ This is a simple UIImage image download tool.
 
 ![](https://raw.githubusercontent.com/William-Weng/WWWebImage/main/Example.gif)
 
-## [WWWeatherHelper](https://github.com/William-Weng/WWWeatherHelper)
+## [06 - WWWeatherHelper](https://github.com/William-Weng/WWWeatherHelper)
 [![Swift-5.3](https://img.shields.io/badge/Swift-5.3-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-12.0](https://img.shields.io/badge/iOS-12.0-pink.svg?style=flat)](https://developer.apple.com/swift/) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
 
 Use [OpenWeatherMap's API](https://openweathermap.org/) to obtain weather-related information for the city or the coordinates.
@@ -63,7 +63,7 @@ Use [OpenWeatherMap's API](https://openweathermap.org/) to obtain weather-relate
 
 ![](https://raw.githubusercontent.com/William-Weng/WWWeatherHelper/main/Example.gif)
 
-## [WWCompositionalLayout](https://github.com/William-Weng/WWCompositionalLayout)
+## [07 - WWCompositionalLayout](https://github.com/William-Weng/WWCompositionalLayout)
 [![Swift-5.5](https://img.shields.io/badge/Swift-5.5-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-13.0](https://img.shields.io/badge/iOS-13.0-pink.svg?style=flat)](https://developer.apple.com/swift/) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
 
 A simple integrated version of iOS 13 [Compositional Layout](https://developer.apple.com/documentation/uikit/views_and_controls/collection_views/layouts), modified into a way similar to [Functional Programming](https://ithelp.ithome.com.tw/articles/10233399) to generate UICollectionViewCompositionalLayout.
@@ -72,7 +72,7 @@ iOS 13 [Compositional Layout](https://www.appcoda.com.tw/compositional-layout/)�
 
 ![](https://raw.githubusercontent.com/William-Weng/WWCompositionalLayout/main/Example.gif)
 
-## [WWScanViewController](https://github.com/William-Weng/WWScanViewController)
+## [08 - WWScanViewController](https://github.com/William-Weng/WWScanViewController)
 [![Swift-5.5](https://img.shields.io/badge/Swift-5.5-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-13.0](https://img.shields.io/badge/iOS-13.0-pink.svg?style=flat)](https://developer.apple.com/swift/) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
 
 Use [AVFoundation Framework](https://developer.apple.com/documentation/avfoundation) to make a simple QRCode / BarCode scanner.
@@ -81,7 +81,7 @@ Use [AVFoundation Framework](https://developer.apple.com/documentation/avfoundat
 
 ![](https://raw.githubusercontent.com/William-Weng/WWScanViewController/main/Example.gif)
 
-## [WWCameraPickerController](https://github.com/William-Weng/WWCameraPickerController)
+## [09 - WWCameraPickerController](https://github.com/William-Weng/WWCameraPickerController)
 [![Swift-5.5](https://img.shields.io/badge/Swift-5.5-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-13.0](https://img.shields.io/badge/iOS-13.0-pink.svg?style=flat)](https://developer.apple.com/swift/) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
 
 The enhanced version of [UIImagePickerController](https://medium.com/彼得潘的試煉-勇者的-100-道-swift-ios-app-謎題/77-搭配-uiimagepickercontroller-選照片-ed2b2423b7a9) made by [AVFoundation](https://www.appcoda.com.tw/avfoundation-camera-app/), with higher customization functions, is more convenient when using the camera to take photos.
@@ -90,7 +90,7 @@ The enhanced version of [UIImagePickerController](https://medium.com/彼得潘�
 
 ![](https://raw.githubusercontent.com/William-Weng/WWCameraPickerController/main/Example.gif)
 
-## [WWSlider](https://github.com/William-Weng/WWSlider)
+## [10 - WWSlider](https://github.com/William-Weng/WWSlider)
 [![Swift-5.5](https://img.shields.io/badge/Swift-5.5-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-13.0](https://img.shields.io/badge/iOS-13.0-pink.svg?style=flat)](https://developer.apple.com/swift/) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
 
 Use UIResponder to imitate an iOS slider.
@@ -98,7 +98,7 @@ Use UIResponder to imitate an iOS slider.
 
 ![](https://raw.githubusercontent.com/William-Weng/WWSlider/main/Example.gif)
 
-## [WWCropViewController](https://github.com/William-Weng/WWCropViewController)
+## [11 - WWCropViewController](https://github.com/William-Weng/WWCropViewController)
 [![Swift-5.5](https://img.shields.io/badge/Swift-5.5-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-13.0](https://img.shields.io/badge/iOS-13.0-pink.svg?style=flat)](https://developer.apple.com/swift/) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
 
 Crop picture widget.
@@ -106,7 +106,7 @@ Crop picture widget.
 
 ![](https://raw.githubusercontent.com/William-Weng/WWCropViewController/main/Example.gif)
 
-## [WWBankBalanceAnimationLabel](https://github.com/William-Weng/WWBankBalanceAnimationLabel)
+## [12 - WWBankBalanceAnimationLabel](https://github.com/William-Weng/WWBankBalanceAnimationLabel)
 [![Swift-5.5](https://img.shields.io/badge/Swift-5.5-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-13.0](https://img.shields.io/badge/iOS-13.0-pink.svg?style=flat)](https://developer.apple.com/swift/) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
 
 UILabel text animation.
@@ -114,7 +114,7 @@ UILabel文字動畫.
 
 ![](https://raw.githubusercontent.com/William-Weng/WWBankBalanceAnimationLabel/main/Example.gif)
 
-## [WWCountdownButton](https://github.com/William-Weng/WWCountdownButton)
+## [13 - WWCountdownButton](https://github.com/William-Weng/WWCountdownButton)
 [![Swift-5.5](https://img.shields.io/badge/Swift-5.5-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-13.0](https://img.shields.io/badge/iOS-13.0-pink.svg?style=flat)](https://developer.apple.com/swift/) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
 
 A countdown button.
@@ -122,7 +122,7 @@ A countdown button.
 
 ![](https://raw.githubusercontent.com/William-Weng/WWCountdownButton/main/Example.gif)
 
-## [WWProgressView](https://github.com/William-Weng/WWProgressView)
+## [14 - WWProgressView](https://github.com/William-Weng/WWProgressView)
 [![Swift-5.5](https://img.shields.io/badge/Swift-5.5-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-13.0](https://img.shields.io/badge/iOS-13.0-pink.svg?style=flat)](https://developer.apple.com/swift/) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
 
 A dynamically flowing progress bar.
@@ -130,7 +130,7 @@ A dynamically flowing progress bar.
 
 ![](https://raw.githubusercontent.com/William-Weng/WWProgressView/main/Example.gif)
 
-## [WWFortuneWheelView](https://github.com/William-Weng/WWFortuneWheelView)
+## [15 - WWFortuneWheelView](https://github.com/William-Weng/WWFortuneWheelView)
 [![Swift-5.5](https://img.shields.io/badge/Swift-5.5-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-13.0](https://img.shields.io/badge/iOS-13.0-pink.svg?style=flat)](https://developer.apple.com/swift/) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
 
 A scroll wheel that can be customized.
@@ -138,7 +138,7 @@ A scroll wheel that can be customized.
 
 ![](https://raw.githubusercontent.com/William-Weng/WWFortuneWheelView/main/Example.gif)
 
-# [WWSegmentControlView](https://github.com/William-Weng/WWSegmentControlView)
+# [16 - WWSegmentControlView](https://github.com/William-Weng/WWSegmentControlView)
 
 [![Swift-5.5](https://img.shields.io/badge/Swift-5.5-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-13.0](https://img.shields.io/badge/iOS-13.0-pink.svg?style=flat)](https://developer.apple.com/swift/) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
 
@@ -147,7 +147,7 @@ UISegmentControl的加強版.
 
 ![](https://raw.githubusercontent.com/William-Weng/WWSegmentControlView/main/Example.gif)
 
-# [WWSQLite3Manager](https://github.com/William-Weng/WWSQLite3Manager)
+# [17 - WWSQLite3Manager](https://github.com/William-Weng/WWSQLite3Manager)
 
 [![Swift-5.5](https://img.shields.io/badge/Swift-5.5-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-13.0](https://img.shields.io/badge/iOS-13.0-pink.svg?style=flat)](https://developer.apple.com/swift/) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
 
@@ -156,7 +156,7 @@ A small tool for SQLite3 that makes basic CRUD easier to use.
 
 ![](https://raw.githubusercontent.com/William-Weng/WWSQLite3Manager/main/Example.gif)
 
-# [WWHUD](https://github.com/William-Weng/WWHUD)
+# [18 - WWHUD](https://github.com/William-Weng/WWHUD)
 
 [![Swift-5.5](https://img.shields.io/badge/Swift-5.5-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-13.0](https://img.shields.io/badge/iOS-13.0-pink.svg?style=flat)](https://developer.apple.com/swift/) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
 
@@ -165,3 +165,10 @@ Custom read animation, support custom pictures, GIF animation. => [HUD - Head Up
 
 ![](https://raw.githubusercontent.com/William-Weng/WWHUD/main/Example.gif)
 
+# [19 - WWFloatingActionButton](https://github.com/William-Weng/WWFloatingActionButton)
+
+[![Swift-5.7](https://img.shields.io/badge/Swift-5.7-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-13.0](https://img.shields.io/badge/iOS-13.0-pink.svg?style=flat)](https://developer.apple.com/swift/) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
+
+Android-like FloatingActionButton. / 仿Android的FloatingActionButton.
+
+![](https://raw.githubusercontent.com/William-Weng/WWFloatingActionButton/main/Example.gif)
