@@ -165,7 +165,17 @@ Custom read animation, support custom pictures, GIF animation. => [HUD - Head Up
 
 ![](https://raw.githubusercontent.com/William-Weng/WWHUD/main/Example.gif)
 
-# [19 - WWFloatingActionButton](https://github.com/William-Weng/WWFloatingActionButton)
+# [19 - WWProgressMaskView](https://github.com/William-Weng/WWProgressMaskView)
+
+[![Swift-5.7](https://img.shields.io/badge/Swift-5.7-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-13.0](https://img.shields.io/badge/iOS-13.0-pink.svg?style=flat)](https://developer.apple.com/swift/) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
+
+The progress ring function of the custom background image uses the principle of picture shielding to make the color of the progress ring more diverse...
+
+自訂背景圖的進度環功能，利用圖片遮罩的原理，讓進度環的色彩更多樣化…
+
+![](https://raw.githubusercontent.com/William-Weng/WWProgressMaskView/main/Example.gif)
+
+# [20 - WWFloatingActionButton](https://github.com/William-Weng/WWFloatingActionButton)
 
 [![Swift-5.7](https://img.shields.io/badge/Swift-5.7-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-13.0](https://img.shields.io/badge/iOS-13.0-pink.svg?style=flat)](https://developer.apple.com/swift/) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
 
