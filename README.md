@@ -212,3 +212,13 @@ Use the "property wrapper" to make an enhanced version of Keychain, so that Keyc
 利用「屬性包裝器」做成Keychain加強版，讓Keychain也能跟UserDefaults一樣方便。
 
 ![](https://raw.githubusercontent.com/William-Weng/WWKeychain/main/Example.png)
+
+# [24 - WWNetworking-UIImage](https://github.com/William-Weng/WWNetworking-UIImage)
+
+[![Swift-5.8](https://img.shields.io/badge/Swift-5.8-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-13.0](https://img.shields.io/badge/iOS-13.0-pink.svg?style=flat)](https://developer.apple.com/swift/) ![](https://img.shields.io/github/v/tag/William-Weng/WWNetworking-UIImage) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
+
+This is a simple web image downloader, similar to a simple version of SDWebImage or Kingfisher.
+
+這是一個簡單的網路圖片下載工具，類似SDWebImage或Kingfisher的簡單版本。
+
+![](https://raw.githubusercontent.com/William-Weng/WWNetworking-UIImage/main/Example.gif)
