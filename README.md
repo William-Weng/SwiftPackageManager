@@ -233,7 +233,7 @@ Wraps URLSession's iOS 13 webSocketTask() into an easy-to-use widget.
 
 ![](https://raw.githubusercontent.com/William-Weng/WWWebSocket/main/Example.gif)
 
-# [26 -  WWAppInstallSource](https://github.com/William-Weng/ WWAppInstallSource)
+# [26 - WWAppInstallSource](https://github.com/William-Weng/WWAppInstallSource)
 
 [![Swift-5.8](https://img.shields.io/badge/Swift-5.8-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-13.0](https://img.shields.io/badge/iOS-13.0-pink.svg?style=flat)](https://developer.apple.com/swift/) ![](https://img.shields.io/github/v/tag/William-Weng/WWAppInstallSource) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
 
