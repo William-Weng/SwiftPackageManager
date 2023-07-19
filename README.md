@@ -232,3 +232,14 @@ Wraps URLSession's iOS 13 webSocketTask() into an easy-to-use widget.
 將URLSession的iOS 13的webSocketTask()包裝成簡單使用的小工具。
 
 ![](https://raw.githubusercontent.com/William-Weng/WWWebSocket/main/Example.gif)
+
+# [26 -  WWAppInstallSource](https://github.com/William-Weng/ WWAppInstallSource)
+
+[![Swift-5.8](https://img.shields.io/badge/Swift-5.8-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-13.0](https://img.shields.io/badge/iOS-13.0-pink.svg?style=flat)](https://developer.apple.com/swift/) ![](https://img.shields.io/github/v/tag/William-Weng/WWAppInstallSource) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
+
+Widget to detect where an app was installed from.
+
+檢測APP從哪裡安裝的小工具。
+
+![](https://raw.githubusercontent.com/William-Weng/WWAppInstallSource/main/Example.png)
+
