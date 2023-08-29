@@ -262,3 +262,34 @@ JavaScriptCore Widget.
 JavaScriptCore小工具.
 
 ![](https://raw.githubusercontent.com/William-Weng/WWJavaScriptContext/main/Example.png)
+
+# [29 - WWSignInWith3rd_Apple](https://github.com/William-Weng/WWSignInWith3rd_Apple)
+
+[![Swift-5.7](https://img.shields.io/badge/Swift-5.7-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-14.0](https://img.shields.io/badge/iOS-14.0-pink.svg?style=flat)](https://developer.apple.com/swift/) ![TAG](https://img.shields.io/github/v/tag/William-Weng/WWSignInWith3rd_Apple) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
+
+Use native Apple third-party login.
+
+使用原生的Apple第三方登入。
+
+![](https://raw.githubusercontent.com/William-Weng/WWSignInWith3rd_Apple/main/Example.gif)
+
+# [30 - WWSignInWith3rd_GitHub](https://github.com/William-Weng/WWSignInWith3rd_GitHub)
+
+[![Swift-5.7](https://img.shields.io/badge/Swift-5.7-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-14.0](https://img.shields.io/badge/iOS-14.0-pink.svg?style=flat)](https://developer.apple.com/swift/) ![TAG](https://img.shields.io/github/v/tag/William-Weng/WWSignInWith3rd_GitHub) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
+
+Use GitHub third-party login.
+
+使用GitHub的第三方登入。
+
+![](https://raw.githubusercontent.com/William-Weng/WWSignInWith3rd_GitHub/main/Example.gif)
+
+# [31 - WWSignInWith3rd_LINE](https://github.com/William-Weng/WWSignInWith3rd_LINE)
+
+[![Swift-5.7](https://img.shields.io/badge/Swift-5.7-orange.svg?style=flat)](https://developer.apple.com/swift/) [![iOS-14.0](https://img.shields.io/badge/iOS-14.0-pink.svg?style=flat)](https://developer.apple.com/swift/) ![TAG](https://img.shields.io/github/v/tag/William-Weng/WWSignInWith3rd_LINE) [![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)](https://developer.apple.com/swift/) [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-yellow.svg?style=flat)](https://developer.apple.com/swift/)
+
+Use LINE third-party login.
+
+使用LINE的第三方登入。
+
+![](https://raw.githubusercontent.com/William-Weng/WWSignInWith3rd_LINE/main/Example.gif)
+
