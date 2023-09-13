@@ -329,3 +329,12 @@ Use Google third-party login.
 使用Google的第三方登入。
 
 ![](https://raw.githubusercontent.com/William-Weng/WWSignInWith3rd_Google/main/Example.gif)
+
+# [37 - WWSignInWith3rd_Facebook](https://github.com/William-Weng/WWSignInWith3rd_Facebook)
+![tag](https://img.shields.io/github/v/tag/William-Weng/WWSignInWith3rd_Facebook) ![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)
+
+Use Facebook third-party login.
+
+使用Facebook的第三方登入。
+
+![](https://raw.githubusercontent.com/William-Weng/WWSignInWith3rd_Facebook/main/Example.gif)
