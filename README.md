@@ -320,3 +320,12 @@ Use JavaScript to convert traditional and simplified Chinese text.
 使用JavaScript進行繁簡中文的文字轉換。
 
 ![](https://raw.githubusercontent.com/William-Weng/WWJavaScriptContext_ChineseConvert/main/Example.gif)
+
+# [36 - WWSignInWith3rd_Google](https://github.com/William-Weng/WWSignInWith3rd_Google)
+![tag](https://img.shields.io/github/v/tag/William-Weng/WWSignInWith3rd_Google) ![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)
+
+Use Google third-party login.
+
+使用Google的第三方登入。
+
+![](https://raw.githubusercontent.com/William-Weng/WWSignInWith3rd_Google/main/Example.gif)
