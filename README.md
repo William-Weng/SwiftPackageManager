@@ -356,3 +356,12 @@ Use Weibo third-party login.
 使用新浪微博的第三方登入。
 
 ![](https://raw.githubusercontent.com/William-Weng/WWSignInWith3rd_Weibo/main/Example.gif)
+
+# [40 - WWMetronome](https://github.com/William-Weng/WWMetronome)
+![tag](https://img.shields.io/github/v/tag/William-Weng/WWMetronome) ![Swift Package Manager-SUCCESS](https://img.shields.io/badge/Swift_Package_Manager-SUCCESS-blue.svg?style=flat)
+
+Simple beat counter.
+
+簡單的節拍計數器。
+
+![](https://raw.githubusercontent.com/William-Weng/WWMetronome/main/Example.gif)
